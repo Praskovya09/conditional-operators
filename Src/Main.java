@@ -7,8 +7,7 @@ public class Main {
 
         if (replenishment > 999) {
             bonus = replenishment / 100;
-        }
-        else {
+        }else {
             bonus = 0;
         }
 
